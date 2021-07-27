@@ -3,9 +3,9 @@
 ### 介绍
 **个人简历-纯静态页面，无后台**
 
-> **预览 ➡️ [https://joeybling.github.io/resume/](https://joeybling.github.io/resume/)**
+> **预览 ➡️ [https://gitee.com/namelxd/resume/](https://gitee.com/namelxd/resume/)**
 
-[![刘晓东的个人简历](./resume_mini.png "刘晓东的个人简历")](https://joeybling.github.io/resume/ "刘晓东的个人简历")
+[![刘晓东的个人简历](./resume_mini.png "刘晓东的个人简历")](https://gitee.com/namelxd/resume/ "刘晓东的个人简历")
 
 **一直在努力,从未放弃**
 > 不浮躁，不偏激，不守旧，爱编程，爱后端，爱新技术，爱运动，爱旅行，执行力和学习能力都棒棒哒！
